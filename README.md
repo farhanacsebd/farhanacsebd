@@ -1,8 +1,9 @@
-### Hi there 👋, I'm Farhana Binte Hasan
-#### MERN Stack Web Developer
+# Hi there 👋, I'm Farhana Binte Hasan
+## MERN Stack Web Developer
 I have completed my BSc in CSE from Dhaka International University(DIU) in 2021.Currently, I am exploring different web technologies like React, React Router 6, Node , MongoDb etc.
 
-Skills: REACT / JS / HTML / CSS
+![Profile views](https://gpvc.arturio.dev/farhanacsebd)  
+
 
 - 🌱 I’m currently learning JS, React. 
 - 👯 I’m looking to collaborate on other content creators. 
@@ -17,4 +18,3 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=farhanacsebd)  
 
-![Profile views](https://gpvc.arturio.dev/farhanacsebd)  
