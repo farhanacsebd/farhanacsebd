@@ -15,8 +15,6 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanacsebd&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=farhanacsebd)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=farhanacsebd)  
 
 ![Profile views](https://gpvc.arturio.dev/farhanacsebd)  
