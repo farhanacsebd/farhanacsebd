@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Farhana Binte Hasan
 ## MERN Stack Web Developer
 
-I have completed my BSc in CSE from Dhaka International University(DIU) in 2021.Currently, I am exploring different web technologies like React, React Router 6, Node , MongoDb etc.
+I have completed my BSc in CSE from Dhaka International University(DIU). I am exploring different web technologies like React, React Router 6, Node , MongoDb etc.
 
 
 
